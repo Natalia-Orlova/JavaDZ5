@@ -2,7 +2,7 @@ package lesson5;
 
 import java.util.*;
 
-public class TaskTwo {
+//public class TaskTwo {
 //    public static void main(String[] args) {
 //        String[] words1 = new String[]{"leetcode", "is", "amazing", "as", "is"};
 //        String[] words2 = new String[]{"amazing", "leetcode", "is"};
